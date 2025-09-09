@@ -1,0 +1,2 @@
+# Liver-Disease-Detection-Using-Machine-Learning-A-Comparative-Study-of-XGBoost-LightGBM-and-CatBoost
+Developed a proejct of an ML model to analyse clinical data for detecting the liver disease. Compared three methodologies: XGBoost, LightGBM, and CatBoost. LightGBM achieved accuracy of 96.7% and ROC-AUC of 98.4%. Showed end to end understanding of data cleaning and modelling, and tuning and evaluation of a binary classification problem.
